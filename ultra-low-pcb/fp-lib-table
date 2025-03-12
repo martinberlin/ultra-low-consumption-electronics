@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "footprint")(type "KiCad")(uri "/home/martin/Documents/kicad/JONAS/ultra-low-consumption-design/parts/Footprints")(options "")(descr ""))
+  (lib (name "footprint")(type "KiCad")(uri "${KIPRJMOD}/../parts/Footprints")(options "")(descr ""))
 )
