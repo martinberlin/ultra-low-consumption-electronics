@@ -12,3 +12,7 @@ RV3032 is a DTCXO Temp. Compensated Real-Time Clock Module
 Based on App. Manual released on May 2023 144/154 Rev. 1.3
 
 **8.5. NO BACKUP SOURCE / EVENT INPUT USED ("WAKE-UP" & "POWER SWITCH")**
+
+
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)WARNING:![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
+ This are theoretical ideas that could mainly be untested. Use any of them on production at your own risk.
