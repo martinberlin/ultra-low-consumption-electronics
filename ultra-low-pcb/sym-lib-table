@@ -2,5 +2,5 @@
   (version 7)
   (lib (name "MCU")(type "KiCad")(uri "${KIPRJMOD}/../parts/Symbols/ESP32-C3-WROOM-02-N4.kicad_sym")(options "")(descr ""))
   (lib (name "RTC")(type "KiCad")(uri "${KIPRJMOD}/../parts/Symbols/RV-3032-C7.kicad_sym")(options "")(descr ""))
-  (lib (name "FLIPFLOP")(type "KiCad")(uri "${KIPRJMOD}/../parts/Symbols/C42879_SN74LVC1G80DBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "LCD")(type "KiCad")(uri "${KIPRJMOD}/../parts/Symbols/S2B-PH-SM4-TB_LCD.kicad_sym")(options "")(descr ""))
 )

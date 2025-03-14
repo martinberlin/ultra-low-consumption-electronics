@@ -129,7 +129,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "18c1d225-f3f9-4bee-a9b0-f68ae18bd9f3")
 	)
-	(model "${KIPRJMOD}/components/3d/SuperCAP_XH414HG-IV01E.stp"
+	(model "/home/martin/Documents/kicad/JONAS/ultra-low-consumption-electronics/parts/3D/SuperCAP_XH414HG-IV01E.stp"
 		(offset
 			(xyz -1.1 -0.07 0)
 		)

@@ -223,7 +223,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "af3d6355-97f7-46f1-b406-dc0de446f706")
 	)
-	(model "${KIPRJMOD}/parts/3d/C2890373_WLCSP-4.wrl"
+	(model "/home/martin/Documents/kicad/JONAS/ultra-low-consumption-electronics/parts/3D/C2890373_WLCSP-4.wrl"
 		(offset
 			(xyz -0 0 -0)
 		)
