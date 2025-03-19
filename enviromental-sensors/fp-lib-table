@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprint")(type "KiCad")(uri "${KIPRJMOD}/../parts/Footprints")(options "")(descr ""))
+  (lib (name "enviromental")(type "KiCad")(uri "${KIPRJMOD}/parts/Footprints")(options "")(descr ""))
+)

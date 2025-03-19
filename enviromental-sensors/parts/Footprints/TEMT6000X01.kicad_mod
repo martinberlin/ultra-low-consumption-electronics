@@ -1,0 +1,168 @@
+(footprint "TEMT6000X01"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "TEMT6000X01")
+	(tags "Phototransistor")
+	(property "Reference" "Q**"
+		(at -0.41 2.01 0)
+		(layer "F.SilkS")
+		(uuid "3dedadb7-5627-4bac-b600-0b8f697ca1ef")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "TEMT6000X01"
+		(at -0.346 -0.054 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "55f1efbb-17b4-4280-b80f-9710f1a8d050")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5b2b1228-cdf6-45cb-9168-c7f0149ce659")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e833eef-ef5c-489e-b60a-45e0f243df2f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d23476bd-6469-4588-bfa7-3660bfcee34d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 2 -1)
+		(end -0.9 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e2af416a-2ad1-4ded-b04b-b719edf48bd5")
+	)
+	(fp_line
+		(start 2 1)
+		(end -0.9 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "83335750-6fbc-41c4-80a7-7061060e72f8")
+	)
+	(fp_line
+		(start -2 -1)
+		(end 2 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d9d1d148-8e9e-46aa-ae20-8394faacddd4")
+	)
+	(fp_line
+		(start -2 1)
+		(end -2 -1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6c888ebb-7649-4a67-882f-8d417f440f5e")
+	)
+	(fp_line
+		(start 2 -1)
+		(end 2 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e338449b-e236-402f-8a44-19bcd3a0cbec")
+	)
+	(fp_line
+		(start 2 1)
+		(end -2 1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d9a372bf-892d-4a95-92dc-d37f8340fe0b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.346 -0.054 0)
+		(layer "F.Fab")
+		(uuid "fdf27651-7d80-42f4-a9a3-0018391d9d37")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.775 0.55 90)
+		(size 0.8 1.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "71ebaa0f-05b5-4781-9e86-4095e6754460")
+	)
+	(pad "2" smd rect
+		(at -1.775 -0.55 90)
+		(size 0.8 1.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4279e775-ca8d-45f6-a250-15b9c27338cc")
+	)
+	(pad "3" smd rect
+		(at 1.775 0 90)
+		(size 0.8 1.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "18f1735e-3548-408b-b661-31981e881210")
+	)
+	(model "${KIPRJMOD}/parts/3D/TEMT6000X01.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
